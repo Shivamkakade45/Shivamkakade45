@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shivamkakade45
 - 👀 I’m interested in software developer 
-- 🌱 I’m currently learning java programming 
+- 🌱 I’m currently learning Full Stack java programming 
 - 💞️ I’m looking to collaborate on  java programming Projects
 - 📫 How to reach me shivamkakade95@gmail.com
-- 😄 Pronouns: Coder | Tech lover | Foodie | Music Lover
+- 😄 Pronouns: Coder | Tech lover | Foodie | Music Lover | Cricket Lover
 - ⚡ Fun fact: Talk is cheap. Show me the code.
 
 <!---
